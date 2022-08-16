@@ -17,7 +17,12 @@ export class AppComponent {
     "French": "FR",
     "German": "DE",
     "Russian": "RU",
-    "Spanish": "ES"
+    "Spanish": "ES",
+    "Italian": 'IT',
+    "Turkish": 'TR',
+    "Vietnamese": 'VN',
+    "Filipino": 'PH',
+    "Thai": 'TH',
   } as any;
 
   constructor() { }
@@ -70,6 +75,8 @@ export class AppComponent {
           data[lng] = {};
         }
         data[lng][trim(KEY)] = obj[language];
+
+        console.log('obj[language]', obj[language]);
       })
       return data;
     }, {});
