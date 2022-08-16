@@ -1,0 +1,154 @@
+{
+  "sq": {
+    "name": "Albanian",
+    "locale": "Shqip"
+  },
+  "ar": {
+    "name": "Arabic",
+    "locale": "العربية"
+  },
+  "hy": {
+    "name": "Armenian",
+    "locale": "Հայերեն"
+  },
+  "be": {
+    "name": "Belarusian",
+    "locale": "Беларуская"
+  },
+  "bs": {
+    "name": "Bosnian",
+    "locale": "Bosanski jezik"
+  },
+  "bg": {
+    "name": "Bulgarian",
+    "locale": "Български език"
+  },
+  "zh": {
+    "name": "Chinese",
+    "locale": "中文"
+  },
+  "hr": {
+    "name": "Croatian",
+    "locale": "hrvatski"
+  },
+  "cs": {
+    "name": "Czech",
+    "locale": "Česky"
+  },
+  "da": {
+    "name": "Danish",
+    "locale": "Dansk"
+  },
+  "nl": {
+    "name": "Dutch",
+    "locale": "Nederlands"
+  },
+  "us": {
+    "name": "English (US)",
+    "locale": "English"
+  },
+  "en": {
+    "name": "English",
+    "locale": "English"
+  },
+  "et": {
+    "name": "Estonian",
+    "locale": "Eesti"
+  },
+  "fr": {
+    "name": "French",
+    "locale": "Français"
+  },
+  "ka": {
+    "name": "Georgian",
+    "locale": "ქართული"
+  },
+  "de": {
+    "name": "German",
+    "locale": "Deutsch"
+  },
+  "he": {
+    "name": "Hebrew",
+    "locale": "עברית"
+  },
+  "hu": {
+    "name": "Hungarian",
+    "locale": "Magyar"
+  },
+  "ga": {
+    "name": "Irish",
+    "locale": "Gaeilge"
+  },
+  "is": {
+    "name": "Icelandic",
+    "locale": "Íslenska"
+  },
+  "it": {
+    "name": "Italian",
+    "locale": "Italiano"
+  },
+  "ja": {
+    "name": "Japanese",
+    "locale": "日本語 (にほんご／にっぽんご)"
+  },
+  "lt": {
+    "name": "Lithuanian",
+    "locale": "lietuvių kalba"
+  },
+  "lv": {
+    "name": "Latvian",
+    "locale": "latviešu valoda"
+  },
+  "no": {
+    "name": "Norwegian",
+    "locale": "Norsk"
+  },
+  "pl": {
+    "name": "Polish",
+    "locale": "Polski"
+  },
+  "pt": {
+    "name": "Portuguese",
+    "locale": "Português"
+  },
+  "ro": {
+    "name": "Romanian, Moldavian, Moldovan",
+    "locale": "Română"
+  },
+  "ru": {
+    "name": "Russian",
+    "locale": "Русский язык"
+  },
+  "sk": {
+    "name": "Slovak",
+    "locale": "slovenčina"
+  },
+  "sl": {
+    "name": "Slovene",
+    "locale": "Slovenščina"
+  },
+  "es": {
+    "name": "Spanish",
+    "locale": "Español"
+  },
+  "tr": {
+    "name": "Turkish",
+    "locale": "Türkçe"
+  },
+  "uk": {
+    "name": "Ukrainian",
+    "locale": "Yкраїнська"
+  },
+  "ph": {
+    "name": "Filipino",
+    "locale": "Phillippines"
+  },
+  "vn": {
+    "name": "Vietnamese",
+    "locale": "Tiếng Việt"
+  },
+  "th": {
+    "name": "Thai",
+    "locale": "ไทย"
+  }
+}
