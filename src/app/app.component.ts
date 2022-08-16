@@ -46,6 +46,8 @@ export class AppComponent {
       // this.setDownload(dataString);
     }
     reader.readAsBinaryString(file);
+
+    ev.target = null;
   }
 
   setDownload(data: any) {
@@ -75,13 +77,9 @@ export class AppComponent {
           data[lng] = {};
         }
         data[lng][trim(KEY)] = obj[language];
-
-        console.log('obj[language]', obj[language]);
       })
       return data;
     }, {});
-
-    console.log(data, finalObj);
 
     const stringifyResult = JSON.stringify(finalObj);
     (document.getElementById('output_trans') as HTMLElement).innerHTML = stringifyResult.slice(0, 300).concat("...");
