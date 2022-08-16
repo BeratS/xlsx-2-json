@@ -47,7 +47,7 @@ export class AppComponent {
     }
     reader.readAsBinaryString(file);
 
-    ev.target = null;
+    ev.target.value = '';
   }
 
   setDownload(data: any) {
